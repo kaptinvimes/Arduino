@@ -1,6 +1,6 @@
 //
 // 22/05/2016
-// Saved by Simulator for Arduino V0.98
+
 // 8 Way Alarm Unit -  8 way relay board HIGH TO ACTIVATE (Normally Open Inputs)
 // External relay now LOW on test
 // 5 second delay before test activated
