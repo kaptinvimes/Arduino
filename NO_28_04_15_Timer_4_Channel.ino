@@ -1,7 +1,7 @@
 
 
 // 29/04/2015
-// Saved by Simulator for Arduino V0.98
+
 // 4 Way Alarm Unit -  4 way relayboard HIGH TO ACTIVATE
 // Output relay and lamp per channel/10min external sounder reactivation after mute pushed.
 
